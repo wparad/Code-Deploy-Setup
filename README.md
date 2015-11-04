@@ -131,3 +131,9 @@ Sample project using AWS CodeDeploy for on-site premise instances
     * Using Deployment Configuration.
     * Specify S3 bucket location: `s3://s3-deployment-artifacts/1.0.tar.gz`
     * click Deploy
+
+### Development instructions
+
+* `gem install bundler`
+* `bundle install`
+* `bundle exec rake --trace`
