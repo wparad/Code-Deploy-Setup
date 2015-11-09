@@ -1,6 +1,9 @@
 # Code Deploy Setup
 Sample project using AWS CodeDeploy for on-site premise instances
 
+# Osiris
+Consider using [Osiris](https://github.com/wparad/Osiris) instead of these instructions.  It is an up to date ruby gem that allows integration into continuous delivery pipelines.
+
 ### General Guidelines
 
 * Access remote machines
