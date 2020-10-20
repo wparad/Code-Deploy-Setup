@@ -8,9 +8,10 @@ GEM
     aws-sdk-resources (2.1.35)
       aws-sdk-core (= 2.1.35)
     jmespath (1.1.3)
-    rake (10.4.2)
+    rake (12.3.3)
 
 PLATFORMS
+  ruby
   x86-mingw32
 
 DEPENDENCIES
